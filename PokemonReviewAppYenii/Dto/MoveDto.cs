@@ -1,0 +1,9 @@
+﻿namespace PokemonReviewAppYenii.Dto
+{
+    public class MoveDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int PokemonId { get; set; }
+    }
+}

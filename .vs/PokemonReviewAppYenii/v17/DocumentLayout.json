@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milmast\\source\\repos\\PokemonReviewAppYenii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6FEE47-08E5-4173-8BCD-11EA6EC127CA}|PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj|c:\\users\\milmast\\source\\repos\\pokemonreviewappyenii\\pokemonreviewappyenii\\pokemonreviewappyenii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F6FEE47-08E5-4173-8BCD-11EA6EC127CA}|PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj|solutionrelative:pokemonreviewappyenii\\pokemonreviewappyenii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonReviewAppYenii.csproj",
+              "DocumentMoniker": "C:\\Users\\milmast\\source\\repos\\PokemonReviewAppYenii\\PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj",
+              "RelativeDocumentMoniker": "PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj",
+              "ToolTip": "C:\\Users\\milmast\\source\\repos\\PokemonReviewAppYenii\\PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj",
+              "RelativeToolTip": "PokemonReviewAppYenii\\PokemonReviewAppYenii.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T13:39:56.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

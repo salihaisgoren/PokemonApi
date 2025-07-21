@@ -1,0 +1,6 @@
+@PokemonReviewAppYenii_HostAddress = http://localhost:5278
+
+GET {{PokemonReviewAppYenii_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
