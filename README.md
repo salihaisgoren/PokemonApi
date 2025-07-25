@@ -9,8 +9,8 @@
 ```
 PokemonApi/
 ├── .vs/                            # Visual Studio geçici dosyaları
-├── PokemonReviewAppYeni/          # API kaynak kodları
-├── PokemonReviewAppYeni.sln       # Visual Studio çözüm dosyası
+├── PokemonReviewAppYenii/          # API kaynak kodları
+├── PokemonReviewAppYenii.sln       # Visual Studio çözüm dosyası
 ```
 
 ---
@@ -21,7 +21,7 @@ PokemonApi/
 
 - [.NET 6.0 SDK veya üzeri](https://dotnet.microsoft.com/en-us/download)
 - Visual Studio 2022 (veya başka bir C# IDE)
-- (Opsiyonel) Postman veya Swagger UI
+-  Postman veya Swagger UI
 
 ### Kurulum
 
@@ -30,7 +30,7 @@ git clone https://github.com/salihaisgoren/PokemonApi.git
 cd PokemonApi
 ```
 
-Visual Studio ile `PokemonReviewAppYeni.sln` dosyasını açıp çalıştırabilirsiniz.
+Visual Studio ile `PokemonReviewAppYenii.sln` dosyasını açıp çalıştırabilirsiniz.
 
 ---
 
