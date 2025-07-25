@@ -94,7 +94,6 @@ DELETE /api/pokemon/{id}
 
 ## 📌 Notlar
 
-- Proje geliştirme aşamasındadır.
 - Swagger UI aktif ve kullanıma hazırdır.
 - Katmanlı mimari yapısı sayesinde kolayca genişletilebilir.
 
