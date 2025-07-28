@@ -8,9 +8,9 @@
 
 ```
 PokemonApi/
-├── .vs/                            # Visual Studio geçici dosyaları
-├── PokemonReviewAppYenii/          # API kaynak kodları
-├── PokemonReviewAppYenii.sln       # Visual Studio çözüm dosyası
+🔹 .vs/: Visual Studio tarafından oluşturulan geçici yapılandırma ve cache dosyalarını içerir.
+🔹 PokemonReviewAppYeni/: Uygulamanın asıl kaynak kodlarının bulunduğu klasör. API'nin tüm iş mantığı burada yer alır.
+🔹 PokemonReviewAppYeni.sln: Projeyi Visual Studio ile açmak için kullanılan çözüm dosyasıdır.
 ```
 
 ---
